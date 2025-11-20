@@ -147,7 +147,7 @@ body{
 
 @media (max-width: 427px){
     body{
-        background-image: url('./images/pattern-background-mobile.svg');
+        background-image: url('./images/pattern-background-mobile.svg ');
     }
 
     .card{
